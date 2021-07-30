@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chapter 2: Supervised Regression on My New Hugo Course Site</title>
-    <link>/chapters/02_supervised_regression/</link>
+    <link>https://jakob-r.de/hugo-course/chapters/02_supervised_regression/</link>
     <description>Recent content in Chapter 2: Supervised Regression on My New Hugo Course Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/chapters/02_supervised_regression/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://jakob-r.de/hugo-course/chapters/02_supervised_regression/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
+    <loc>https://jakob-r.de/hugo-course/categories/</loc>
   </url><url>
-    <loc>/chapters/01_ml_basics/01_01_what_is_ml/</loc>
+    <loc>https://jakob-r.de/hugo-course/chapters/01_ml_basics/01_01_what_is_ml/</loc>
   </url><url>
-    <loc>/chapters/01_ml_basics/01_02_data/</loc>
+    <loc>https://jakob-r.de/hugo-course/chapters/01_ml_basics/01_02_data/</loc>
   </url><url>
-    <loc>/chapters/01_ml_basics/</loc>
+    <loc>https://jakob-r.de/hugo-course/chapters/01_ml_basics/</loc>
   </url><url>
-    <loc>/chapters/02_supervised_regression/</loc>
+    <loc>https://jakob-r.de/hugo-course/chapters/02_supervised_regression/</loc>
   </url><url>
-    <loc>/chapters/</loc>
+    <loc>https://jakob-r.de/hugo-course/chapters/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>https://jakob-r.de/hugo-course/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://jakob-r.de/hugo-course/tags/</loc>
   </url>
 </urlset>
