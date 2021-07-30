@@ -19,4 +19,16 @@
 {{ end }}
 
 
+{{ if or (.NextInSection) (.PrevInSection)}}
+<ul class = "section_skipper">
+{{ with .NextInSection }}
+  <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+{{ end }}
+{{ with .PrevInSection }}
+  <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+{{ end }}
+</ul>
+{{ end }}
+
+
 {{ end }}

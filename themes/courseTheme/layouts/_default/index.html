@@ -1,6 +1,28 @@
 {{ define "main" }}
-{{ range .Pages }}
 <h1>{{ .Title }}</h1>
 {{ .Content }}
+
+
+<hr />
+
+
+{{ $chapters := .Site.GetPage "section" "chapters" }}
+<div id="chapter_overview">
+<ul>
+{{ if $chapters.Pages }}
+{{ range $chapters.Pages }}
+<li><a class="title" href="{{ .RelPermalink }}">{{.Title}}</a> {{ .Summary }}
+{{ if .Pages}}
+<ul>
+  {{ range .Pages}}
+  <li><a class="title" href="{{ .RelPermalink }}">{{.Title}}</a></li>
+  {{ end }}
+</ul>
 {{ end }}
+</li>
+{{ end }}
+</ul>
+</div>
+{{ end }}
+
 {{ end }}
