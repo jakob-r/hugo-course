@@ -1,0 +1,12 @@
+languageCode = "en-us"
+title = "My New Hugo Course Site"
+theme = "courseTheme"
+[Params]
+  footer = "Course Creator"
+  logo = "i2ml.svg" # in ./static
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "home"
+    url = "/"
+    weight = 1
