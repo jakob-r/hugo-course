@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction to Machine Learning (I2ML) on My New Hugo Course Site</title>
+    <link>/</link>
+    <description>Recent content in Introduction to Machine Learning (I2ML) on My New Hugo Course Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter 1.1: What is ML?</title>
+      <link>/chapters/01_ml_basics/01_01_what_is_ml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/chapters/01_ml_basics/01_01_what_is_ml/</guid>
+      <description>As subtopic of artificial intelligence, machine learning is a mathematically well-defined discipline and usually constructs predictive or decision models from data, instead of explicitly programming them. In this section, you will see some typical examples of where machine learning is applied and the main directions of machine learning.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1.2: Data</title>
+      <link>/chapters/01_ml_basics/01_02_data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/chapters/01_ml_basics/01_02_data/</guid>
+      <description>In this section we explain the basic structure of tabular data used in machine learning. We will differentiate targets from features, talk about labeled and unlabeled data and introduce the concept of the data generating process.</description>
+    </item>
+    
+  </channel>
+</rss>
