@@ -1,3 +1,4 @@
+baseURL = "https://jakob-r.de/hugo-course/"
 languageCode = "en-us"
 title = "My New Hugo Course Site"
 theme = "courseTheme"
