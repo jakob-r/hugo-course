@@ -1,15 +1,16 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
+<div class="chapter_overview">
+<ul>
 {{ with .Pages }}
 {{ range sort . ".File.Path"}}
-<p>
-    <h3><a class="title" href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-    <a class="summary" href="{{ .RelPermalink }}">
+<li>
+    <a class="title" href="{{ .RelPermalink }}">{{ .Title }}</a>
         <p>{{ .Summary }}</p>
-    </a>
-
-</p>
+</li>
 {{ end }}
 {{ end }}
+</ul>
+</div>
 
 {{ end }}

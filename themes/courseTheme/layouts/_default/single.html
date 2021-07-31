@@ -22,10 +22,10 @@
 {{ if or (.NextInSection) (.PrevInSection)}}
 <ul class = "section_skipper">
 {{ with .NextInSection }}
-  <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+  <li id="next_in_section"><a class="btn btn-primary" href="{{ .Permalink }}">&#xab; {{ .Title }}</a></li>
 {{ end }}
 {{ with .PrevInSection }}
-  <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+  <li id="prev_in_section"><a class="btn btn-primary" href="{{ .Permalink }}">{{ .Title }} &#xbb;</a></li>
 {{ end }}
 </ul>
 {{ end }}

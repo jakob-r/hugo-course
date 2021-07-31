@@ -3,11 +3,31 @@ languageCode = "en-us"
 title = "My New Hugo Course Site"
 theme = "courseTheme"
 [Params]
-  footer = "Course Creator"
-  logo = "i2ml.svg" # in ./static
+  footer = "© 2021 Course Creator"
+  logo = "i2ml.svg" # file in ./static
 [menu]
   [[menu.main]]
     name = "Home"
     pre = "home"
-    url = "/"
+    url = "."
     weight = 1
+  [[menu.main]]
+    name = "Chapters"
+    pre = "chapters"
+    url = "chapters/"
+    weight = 2
+  [[menu.main]]
+    name = "Appendix"
+    pre = "appendix"
+    url = "appendix/"
+    weight = 3
+# can contain as main items as you want
+  [[menu.footer]] # name here does not matter
+    name = "Main Course Website"
+    url = "."
+  [[menu.footer]]
+    name = "Course content"
+    url = "https://github.com/compstat-lmu/lecture_i2ml"
+  [[menu.footer]]
+    name = "Website source code"
+    url = "https://github.com/jakob-r/hugo-course"
