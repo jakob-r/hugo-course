@@ -1,6 +1,30 @@
 ---
 title: "Chapter 2.1: Loss Functions for Regression"
-video_id: Syrzezpj2FY
-pdf_file: slides-regression-losses.pdf
+quizdown: true
 ---
-L1 and L2 are two essential loss functions used for evaluating the performance of regression models. This section defines L1 and L2 loss and explains the differences.
+L1 and L2 are two essential loss functions used for evaluating the performance of regression models. This section defines L1 and L2 loss and explains the differences. 
+<!--more-->
+{{< video >}}Syrzezpj2FY{{< /video >}}
+
+{{< pdf >}}slides-regression-losses.pdf{{< /pdf >}}
+
+{{< quizdown >}}
+
+---
+shuffle_questions: false
+---
+
+## Which statements are true? 
+
+---
+shuffle_answers: true
+---
+
+- [x] The target in linear regression has to be numeric
+- [ ] The features in linear regression have to be numeric
+- [x] The classical linear model from statistics with gaussian errors is linear regression with $L2$-loss
+- [x] The hypothesis space of linear regression consists of linear functions of the features
+
+{{< /quizdown >}}
+
+

@@ -6,7 +6,7 @@
 {{ range sort . ".File.Path"}}
 <li>
     <a class="title" href="{{ .RelPermalink }}">{{ .Title }}</a>
-        <p>{{ .Summary }}</p>
+        <p>{{ .Summary | plainify }}</p>
 </li>
 {{ end }}
 {{ end }}

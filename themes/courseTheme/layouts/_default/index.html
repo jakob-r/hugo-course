@@ -11,7 +11,7 @@
 <ul>
 {{ if $chapters.Pages }}
 {{ range $chapters.Pages }}
-<li><a class="title" href="{{ .RelPermalink }}">{{.Title}}</a> {{ .Summary }}
+<li><a class="title" href="{{ .RelPermalink }}">{{.Title}}</a> {{ .Summary | plainify }}
 {{ if .Pages}}
 <ul>
   {{ range .Pages}}

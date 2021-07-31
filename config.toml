@@ -6,6 +6,7 @@ theme = "courseTheme"
   footer = "© 2021 Course Creator"
   logo = "i2ml.svg" # file in ./static
   video_base_url = "https://www.youtube-nocookie.com/embed/"
+  mathjax = false # has to be enabled for each page or enable it here globally
 [menu]
   [[menu.main]]
     name = "Home"
@@ -32,3 +33,5 @@ theme = "courseTheme"
   [[menu.footer]]
     name = "Website source code"
     url = "https://github.com/jakob-r/hugo-course"
+[minify] # needed for quizdown to work
+  disableHTML = true

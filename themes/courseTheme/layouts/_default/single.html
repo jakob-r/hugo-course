@@ -2,23 +2,6 @@
 <h1>{{ .Title }}</h1>
 {{ .Content }}
 
-{{ if isset .Params "video_id"}}
-<div class="embedded_video">
-  <iframe src="{{ .Site.Params.video_base_url }}{{ .Params.video_id }}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="YouTube Video: {{ .Title }}"></iframe>
-</div>
-{{ end }}
-
-{{ if isset .Params "pdf_file"}}
-<div class="pdf">
-<object class="pdf" data="../{{.Params.pdf_file}}" type="application/pdf">
-    <embed src="../{{.Params.pdf_file}}">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../{{.Params.pdf_file}}">Download PDF</a>.</p>
-    </embed>
-</object>
-</div>
-{{ end }}
-
-
 {{ if or (.NextInSection) (.PrevInSection)}}
 <ul class = "section_skipper">
 {{ with .NextInSection }}

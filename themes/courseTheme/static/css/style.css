@@ -9,12 +9,16 @@
   padding-bottom: 4em;
 }
 
-p, h1, h2, h3, h4, li {
+p, h1, h2, h3, h4 {
   max-width: 800px;
   margin-left: auto;
   margin-right: auto;
-  text-align: justify
 }
+
+p {
+  text-align: justify  
+}
+
 
 div.embedded_video {
   width: 90%;
@@ -83,4 +87,11 @@ ul.section_skipper #prev_in_section {
 
 footer ul {
   margin: 0;
+}
+
+code.has-jax {
+    -webkit-font-smoothing: antialiased;
+    background: inherit !important;
+    border: none !important;
+    font-size: 100%;
 }
