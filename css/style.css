@@ -5,7 +5,11 @@
   display: block;
 }
 
-p, h1, h2, h3, h4 {
+#content {
+  padding-bottom: 4em;
+}
+
+p, h1, h2, h3, h4, li {
   max-width: 800px;
   margin-left: auto;
   margin-right: auto;
@@ -34,4 +38,49 @@ div.pdf {
 div.pdf object {
   width: 100%;
   aspect-ratio: 19/9;
+}
+
+.chapter_overview {
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.chapter_overview>ul>li {
+  display: block;
+  border: 1px solid #888888;
+  border-radius: 5px;
+  padding: 1rem;
+  margin: 2rem auto 2rem;
+}
+
+.chapter_overview a {
+  text-decoration: none;
+}
+
+.chapter_overview>ul>li>a {
+  display: block;
+  font-size: 130%;
+}
+
+ul.section_skipper {
+  list-style-type: none;
+  display: block;
+  overflow: auto;
+  padding: 0;
+  margin: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 800px;
+}
+ 
+ul.section_skipper #next_in_section {
+  float: left;
+}
+ul.section_skipper #prev_in_section {
+  float: right;
+}
+
+footer ul {
+  margin: 0;
 }
