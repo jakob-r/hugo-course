@@ -7,7 +7,7 @@
 <link rel="stylesheet" type="text/css" href="/hugo-course/css/style.css">
 
 
-<title>My New Hugo Course Site | Errata</title>
+<title>My New Hugo Course Site | Hugo Quiz</title>
 </head><body>
 <img id="logo" src="/hugo-course/i2ml.svg" />
 
@@ -31,24 +31,47 @@
         
     </nav>
 </div><div id="content" class="container">
-<h1>Errata</h1>
-<h2 id="errata-in-the-slides-shown-in-the-videos">Errata in the slides shown in the videos</h2>
-<ul>
-<li>Chapter 1.4 (Models &amp; Parameters) - slide 5/10: d-dimensional vector, not p-dimensional</li>
-<li>Chapter 4.3 (Simple Measures for Classification) - slide 6/9: Error in cost matrix</li>
-<li>Chapter 5.2 (CART: Splitting Criteria) - slide 12/12: Error in result of Gini</li>
-<li>Chapter 6.2 (Forests: Intro) - slides 7/8 and 8/8: Error in OOB error</li>
-<li>Chapter 6.4 (Forests: Feature importance) - slide 3/3: Error in permutation based variable importance</li>
-</ul>
+<h1>Hugo Quiz</h1>
+
+<div class='quizdown'>
+  
+
+---
+primary_color: orange
+secondary_color: lightgray
+text_color: black
+shuffle_questions: false
+---
+
+## The sound of dog
+
+---
+shuffle_answers: false
+---
+
+What do dogs sound $1+1$ like?
+
+> Some hint
+
+- [ ] yes
+- [ ] no
+- [ ] `self.sound = "meow"`
+- [x] wuff
+
+## Put the [days](https://en.wikipedia.org/wiki/Day) in order!
+
+> Monday is the *first* day of the week.
+
+1. Monday
+2. Tuesday
+3. Wednesday
+4. Friday
+5. Saturday  
+
+</div>
 
 
 
-<ul class = "section_skipper">
-
-  <li id="next_in_section"><a class="btn btn-primary" href="https://jakob-r.de/hugo-course/appendix/01_cheat_sheets/">&#xab; Cheat Sheets</a></li>
-
-
-</ul>
 
 
 
@@ -67,5 +90,17 @@
 </footer>
 
 
-</body>
+<script 
+src="https://cdn.jsdelivr.net/npm/quizdown@latest/public/build/quizdown.js">
+</script>
+<script 
+src="https://cdn.jsdelivr.net/npm/quizdown@latest/public/build/extensions/quizdownKatex.js">
+</script>
+<script 
+src="https://cdn.jsdelivr.net/npm/quizdown@latest/public/build/extensions/quizdownHighlight.js">
+</script>
+<script>quizdown.register(quizdownHighlight).register(quizdownKatex).init()</script> 
+<script type="text/javascript"
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script></body>
 </html>
