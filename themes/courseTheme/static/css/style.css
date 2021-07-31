@@ -16,13 +16,13 @@ p, h1, h2, h3, h4, li {
   text-align: justify
 }
 
-div.youtube {
+div.embedded_video {
   width: 90%;
   margin: auto;
   margin-top: 20px;
   margin-bottom: 20px;
 }
-div.youtube iframe {
+div.embedded_video iframe {
   width: 100%;
   aspect-ratio: 16 / 9;
   border: solid 1px black;

@@ -2,9 +2,9 @@
 <h1>{{ .Title }}</h1>
 {{ .Content }}
 
-{{ if isset .Params "youtube_url"}}
-<div class="youtube">
-  <iframe src="{{ replace .Params.youtube_url "youtube.com" "youtube-nocookie.com" 1 }}?autoplay=1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="YouTube Video: {{ .Title }}"></iframe>
+{{ if isset .Params "video_id"}}
+<div class="embedded_video">
+  <iframe src="{{ .Site.Params.video_base_url }}{{ .Params.video_id }}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="YouTube Video: {{ .Title }}"></iframe>
 </div>
 {{ end }}
 

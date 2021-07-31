@@ -5,6 +5,7 @@ theme = "courseTheme"
 [Params]
   footer = "© 2021 Course Creator"
   logo = "i2ml.svg" # file in ./static
+  video_base_url = "https://www.youtube-nocookie.com/embed/"
 [menu]
   [[menu.main]]
     name = "Home"
