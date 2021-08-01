@@ -3,7 +3,7 @@
 {{ .Content }}
 
 {{ if or (.NextInSection) (.PrevInSection)}}
-<ul class = "section_skipper">
+<ul class="section_skipper list-unstyled">
 {{ with .NextInSection }}
   <li id="next_in_section"><a class="btn btn-primary" href="{{ .Permalink }}">&#xab; {{ .Title }}</a></li>
 {{ end }}
