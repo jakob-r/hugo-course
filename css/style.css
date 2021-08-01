@@ -1,3 +1,7 @@
+:root {
+  --text-width: 800px;
+}
+
 #logo {
   width: 200px;
   margin: auto;
@@ -10,7 +14,7 @@
 }
 
 p, h1, h2, h3, h4 {
-  max-width: 800px;
+  max-width: var(--text-width);
   margin-left: auto;
   margin-right: auto;
 }
@@ -20,6 +24,7 @@ p {
 }
 
 
+/* shortcode:  video */
 div.embedded_video {
   width: 90%;
   margin: auto;
@@ -30,18 +35,21 @@ div.embedded_video iframe {
   width: 100%;
   aspect-ratio: 16 / 9;
   border: solid 1px black;
+  min-height: 255px;
+  min-width: 400px;
 }
 
 div.pdf {
-  width: 90%;
+  max-width: var(--text-width);
   margin-top: 20px;
   margin-bottom: 20px;
   margin: auto;
 }
 
+/* shortcode:  pdf */
 div.pdf object {
   width: 100%;
-  aspect-ratio: 19/9;
+  aspect-ratio: 16/9;
 }
 
 .chapter_overview {
@@ -75,7 +83,7 @@ ul.section_skipper {
   margin: 2rem;
   margin-left: auto;
   margin-right: auto;
-  max-width: 800px;
+  max-width: var(--text-width);
 }
  
 ul.section_skipper #next_in_section {
@@ -89,9 +97,24 @@ footer ul {
   margin: 0;
 }
 
+/* mathjax */
+
 code.has-jax {
     -webkit-font-smoothing: antialiased;
     background: inherit !important;
     border: none !important;
     font-size: 100%;
+}
+
+/* pdfjs */
+
+#the-canvas {
+  border: 1px solid black;
+  direction: ltr;
+  width: 100%;
+  height: auto;
+}
+#paginator{
+    text-align: center;
+    margin-bottom: 10px;
 }
