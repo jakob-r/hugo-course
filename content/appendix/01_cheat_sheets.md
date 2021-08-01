@@ -2,4 +2,4 @@
 title: Cheat Sheets
 ---
 
-[Download](../cheatsheet_notation.pdf)
+- I2ML :: BASICS [Download]({{< fileurl file="cheatsheet_notation.pdf" >}})

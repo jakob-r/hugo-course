@@ -6,7 +6,9 @@
 - to include pdf as iframes in a lecture use `{{< pdf >}}slides-regression-losses.pdf{{< /pdf >}}`.
   - the pdf has to be in the same directory as the md file.
   - i reccomend using [pdfjs](https://github.com/anvithks/hugo-embed-pdf-shortcode) `{{< pdfjs >}}slides-regression-losses.pdf{{< /pdfjs >}}` for ios compatibility
-- if you add a markdown or html link to a file that is in the same directory you have to link to `../file.pdf`
+- if you add a markdown or html link to a file that is in the same directory
+  - you should use the shortcode `{{< fileurl file="cheatsheet_notation.pdf" >}}` 
+  - of you link to `../file.pdf` it will break in the index pages
 - to include lecture video: ``{{< video >}}Syrzezpj2FY{{< /video >}}`
   - the video_id is the last part of the youtube url for https://www.youtube.com/watch?v=BmSvhDCdJro it is `BmSvhDCdJro`.
   - You can also embed videos from other plattforms by changing `video_base_url` in `config.toml`

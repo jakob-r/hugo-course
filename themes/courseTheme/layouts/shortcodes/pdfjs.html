@@ -1,7 +1,9 @@
 <!-- based on: https://github.com/anvithks/hugo-embed-pdf-shortcode -->
 
 <script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@2.9.359/build/pdf.min.js" integrity="sha256-hEmjt7z3bB53X/awJyV81gmBLpVw2mj7EsvoJelZWow=" crossorigin="anonymous"></script>
-
+{{ $pdf_file := .Get "file" }}
+{{ $pdf_url :=  path.Join .Page.Dir $pdf_file }}
+{{ $pdf_url := $pdf_url | absURL }}
 <div class="pdf">
 <div id="paginator">
     <button class="btn btn-primary" id="prev">Previous</button>
@@ -9,7 +11,7 @@
     <span>Page: <span id="page_num"></span> / <span id="page_count"></span></span>
     &nbsp;
     <button class="btn btn-primary" id="next">Next</button>
-    <a href="../{{ .Get "file" }}" target="_blank"><button class="btn btn-secondary" id="next">PDF</button></a>
+    <a href="{{ $pdf_url }}" target="_blank"><button class="btn btn-secondary" id="next">PDF</button></a>
 </div>
 <div id="embed-pdf-container">
     <canvas id="the-canvas"></canvas>
@@ -20,7 +22,7 @@
 window.onload = function() {
 // If absolute URL from the remote server is provided, configure the CORS
 // header on that server.
-var url = '../{{ .Get "file" }}';
+var url = '{{ $pdf_url }}';
 var hidePaginator = "{{ .Get "hidePaginator" }}";
 
 // Loaded via <script> tag, create shortcut to access PDF.js exports.

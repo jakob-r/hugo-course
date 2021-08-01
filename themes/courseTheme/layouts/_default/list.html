@@ -12,7 +12,7 @@
        <p>{{ .Content }} </p>
       {{ else if eq $show_in_index "none"}}
       {{ else }}
-        <p>{{ .Summary }}</p>
+        <p>{{ .Summary | plainify }}</p>
       {{ end }}
       
 </li>
