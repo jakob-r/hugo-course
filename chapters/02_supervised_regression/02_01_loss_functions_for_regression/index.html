@@ -41,6 +41,8 @@
 
 <script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@2.9.359/build/pdf.min.js" integrity="sha256-hEmjt7z3bB53X/awJyV81gmBLpVw2mj7EsvoJelZWow=" crossorigin="anonymous"></script>
 
+
+
 <div class="pdf">
 <div id="paginator">
     <button class="btn btn-primary" id="prev">Previous</button>
@@ -48,7 +50,7 @@
     <span>Page: <span id="page_num"></span> / <span id="page_count"></span></span>
     &nbsp;
     <button class="btn btn-primary" id="next">Next</button>
-    <a href="../slides-regression-losses.pdf" target="_blank"><button class="btn btn-secondary" id="next">PDF</button></a>
+    <a href="https://jakob-r.de/hugo-course/chapters/02_supervised_regression/slides-regression-losses.pdf" target="_blank"><button class="btn btn-secondary" id="next">PDF</button></a>
 </div>
 <div id="embed-pdf-container">
     <canvas id="the-canvas"></canvas>
@@ -59,7 +61,7 @@
 window.onload = function() {
 
 
-var url = '../slides-regression-losses.pdf';
+var url = 'https:\/\/jakob-r.de\/hugo-course\/chapters\/02_supervised_regression\/slides-regression-losses.pdf';
 var hidePaginator = "";
 
 

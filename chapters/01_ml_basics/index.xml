@@ -12,8 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jakob-r.de/hugo-course/chapters/01_ml_basics/01_01_what_is_ml/</guid>
-      <description>As subtopic of artificial intelligence, machine learning is a mathematically well-defined discipline and usually constructs predictive or decision models from data, instead of explicitly programming them. In this section, you will see some typical examples of where machine learning is applied and the main directions of machine learning.
-   Previous &amp;nbsp; Page:  /  &amp;nbsp; Next PDF     window.onload = function() { var url = &#39;.</description>
+      <description>&lt;p&gt;As subtopic of artificial intelligence, machine learning is a mathematically well-defined discipline and usually constructs predictive or decision models from data, instead of explicitly programming them. In this section, you will see some typical examples of where machine learning is applied and the main directions of machine learning.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -22,8 +21,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jakob-r.de/hugo-course/chapters/01_ml_basics/01_02_data/</guid>
-      <description>In this section we explain the basic structure of tabular data used in machine learning. We will differentiate targets from features, talk about labeled and unlabeled data and introduce the concept of the data generating process.
-  </description>
+      <description>&lt;p&gt;In this section we explain the basic structure of tabular data used in machine learning. We will differentiate targets from features, talk about labeled and unlabeled data and introduce the concept of the data generating process.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -32,8 +30,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jakob-r.de/hugo-course/chapters/01_ml_basics/01_03_tasks/</guid>
-      <description>The tasks of supervised learning can roughly be divided in two categories: regression (for continuous outcome) and classification (for categorical outcome). We will present some examples.
-   Previous &amp;nbsp; Page:  /  &amp;nbsp; Next PDF     window.onload = function() { var url = &#39;../slides-basics-task.pdf&#39;; var hidePaginator = &#34;&#34;; var pdfjsLib = window[&#39;pdfjs-dist/build/pdf&#39;]; pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https://cdn.jsdelivr.net/npm/pdfjs-dist@2.9.359/build/pdf.worker.min.js&#34;; var pdfDoc = null, pageNum = 1, pageRendering = false, pageNumPending = null, scale = 3, canvas = document.</description>
+      <description>&lt;p&gt;The tasks of supervised learning can roughly be divided in two categories: regression (for continuous outcome) and classification (for categorical outcome). We will present some examples.&lt;/p&gt;</description>
     </item>
     
   </channel>

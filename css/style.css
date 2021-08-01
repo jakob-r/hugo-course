@@ -28,21 +28,21 @@ p {
 div.embedded_video {
   width: 90%;
   margin: auto;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  min-width: 400px;
 }
 div.embedded_video iframe {
+  min-height: 250px;
   width: 100%;
-  aspect-ratio: 16 / 9;
+  aspect-ratio: 16 / 9; 
   border: solid 1px black;
-  min-height: 255px;
-  min-width: 400px;
 }
 
 div.pdf {
   max-width: var(--text-width);
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
   margin: auto;
 }
 
