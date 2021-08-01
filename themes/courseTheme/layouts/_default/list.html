@@ -1,8 +1,11 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
+
+<p>{{.Content}}</p>
+
 {{ $show_in_index := .Params.show_in_index }}
 <div class="chapter_overview">
-<ul>
+<ul class="list-unstyled">
 {{ with .Pages }}
 {{ range sort . ".File.Path"}}
 <li>

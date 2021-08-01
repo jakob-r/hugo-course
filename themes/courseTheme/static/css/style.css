@@ -76,7 +76,6 @@ div.pdf object {
 }
 
 ul.section_skipper {
-  list-style-type: none;
   display: block;
   overflow: auto;
   padding: 0;
