@@ -1,12 +1,20 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
+{{ $show_in_index := .Params.show_in_index }}
 <div class="chapter_overview">
 <ul>
 {{ with .Pages }}
 {{ range sort . ".File.Path"}}
 <li>
     <a class="title" href="{{ .RelPermalink }}">{{ .Title }}</a>
-        <p>{{ .Summary | plainify }}</p>
+    
+      {{ if eq $show_in_index "content" }}
+       <p>{{ .Content }} </p>
+      {{ else if eq $show_in_index "none"}}
+      {{ else }}
+        <p>{{ .Summary }}</p>
+      {{ end }}
+      
 </li>
 {{ end }}
 {{ end }}

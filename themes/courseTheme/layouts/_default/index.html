@@ -7,10 +7,11 @@
 
 
 {{ $chapters := .Site.GetPage "section" "chapters" }}
+{{ if $chapters.Pages }}
 <div class="chapter_overview" id="index_chapters">
 <ul>
-{{ if $chapters.Pages }}
-{{ range $chapters.Pages }}
+{{ with $chapters.Pages }}
+{{ range sort . ".File.Path"}}
 <li><a class="title" href="{{ .RelPermalink }}">{{.Title}}</a> {{ .Summary | plainify }}
 {{ if .Pages}}
 <ul>
@@ -24,16 +25,18 @@
 </ul>
 </div>
 {{ end }}
+{{ end }}
 
 {{ $appendix := .Site.GetPage "section" "appendix" }}
+{{ if $appendix.Pages }}
 <div class="chapter_overview" id="index_appendix">
 <ul>
-{{ if $appendix.Pages }}
-{{ range $appendix.Pages }}
+{{ with $appendix.Pages }}
+{{ range sort . ".File.Path"}}
 <li><a class="title" href="{{ .RelPermalink }}">{{.Title}}</a></li>
+{{ end }}
 {{ end }}
 </ul>
 </div>
 {{ end }}
-
 {{ end }}
