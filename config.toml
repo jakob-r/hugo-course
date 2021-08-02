@@ -1,7 +1,9 @@
 baseURL = "https://jakob-r.de/hugo-course/"
 languageCode = "en-us"
-title = "My New Hugo Course Site"
+title = "Introduction to Machine Learning (I2ML)"
 theme = "courseTheme"
+enableRobotsTXT = true
+
 [Params]
   footer = "© 2021 Course Creator"
   logo = "i2ml.svg" # file in ./static
