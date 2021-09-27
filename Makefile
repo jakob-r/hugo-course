@@ -13,4 +13,9 @@ clean:
 	rm -rf public
 	git worktree prune
 
+update_theme:
+	git submodule update --recursive --remote
+	git add themes/courseTheme
+	git commit -m "update theme"
+
 watch: clean; hugo server -D
