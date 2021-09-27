@@ -2,6 +2,36 @@
   --text-width: 800px;
 }
 
+/* overwrite bootstrap */
+
+@media (min-width:992px) {
+ .container,
+ .container-lg,
+ .container-md,
+ .container-sm {
+  max-width: var(--text-width)
+ }
+}
+@media (min-width:1200px) {
+ .container,
+ .container-lg,
+ .container-md,
+ .container-sm,
+ .container-xl {
+  max-width: var(--text-width)
+ }
+}
+@media (min-width:1400px) {
+ .container,
+ .container-lg,
+ .container-md,
+ .container-sm,
+ .container-xl,
+ .container-xxl {
+  max-width: var(--text-width)
+ }
+}
+
 #logo {
   width: 200px;
   margin: auto;
@@ -10,52 +40,47 @@
 }
 
 #content {
+  margin-top: 2em;
   padding-bottom: 4em;
-}
-
-p, h1, h2, h3, h4 {
-  max-width: var(--text-width);
-  margin-left: auto;
-  margin-right: auto;
 }
 
 p {
   text-align: justify  
 }
 
+/* Team */
+h1#team + ul {
+  margin-top: 2em;
+}
+h1#team + ul li {
+  display: block;
+  float: left;
+  margin-bottom: 2em;
+  margin-top: 1em;
+}
+h1#team + ul li img{
+  width:100px;
+  height:100px;
+  object-fit:cover;
+  border:solid 2px #e8e8e8;
+  border-radius:50px;
+  float: left;
+  margin-right: 2em;
+  margin-top: -1em;
+}
 
 /* shortcode:  video */
 div.embedded_video {
-  width: 90%;
-  margin: auto;
+  width: 100%;
   margin-top: 2rem;
-  margin-bottom: 2rem;
+  margin-bottom: 3rem;
   min-width: 400px;
 }
 div.embedded_video iframe {
   min-height: 250px;
   width: 100%;
   aspect-ratio: 16 / 9; 
-  border: solid 1px black;
-}
-
-div.pdf {
-  max-width: var(--text-width);
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-  margin: auto;
-}
-
-/* shortcode:  pdf */
-div.pdf object {
-  width: 100%;
-  aspect-ratio: 16/9;
-}
-
-.chapter_overview {
-  max-width: 700px;
-  margin-left: auto;
-  margin-right: auto;
+  border: solid 1px #888888;
 }
 
 .chapter_overview>ul>li {
@@ -75,6 +100,11 @@ div.pdf object {
   font-size: 130%;
 }
 
+.chapter_overview>ul>li>ul {
+  margin-top: 0.8rem;
+}
+
+
 ul.section_skipper {
   display: block;
   overflow: auto;
@@ -88,6 +118,7 @@ ul.section_skipper {
 ul.section_skipper #next_in_section {
   float: left;
 }
+
 ul.section_skipper #prev_in_section {
   float: right;
 }
@@ -95,6 +126,8 @@ ul.section_skipper #prev_in_section {
 footer ul {
   margin: 0;
 }
+
+
 
 /* mathjax */
 
@@ -105,10 +138,23 @@ code.has-jax {
     font-size: 100%;
 }
 
+/* shortcode:  pdf */
+
+div.pdf {
+  width: 100%;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+}
+
+div.pdf object {
+  width: 100%;
+  aspect-ratio: 16/9;
+}
+
 /* pdfjs */
 
 #the-canvas {
-  border: 1px solid black;
+  border: 1px solid #888888;
   direction: ltr;
   width: 100%;
   height: auto;
