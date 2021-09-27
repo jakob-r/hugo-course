@@ -20,4 +20,4 @@
 
 ## License
 
-CC-BY Jakob Richter
+[MIT LICENSE](LICENSE)
