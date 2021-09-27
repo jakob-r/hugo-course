@@ -15,6 +15,15 @@ L1 and L2 are two essential loss functions used for evaluating the performance o
 shuffle_questions: false
 ---
 
+## Human verification
+
+What picture shows an apple?
+
+- [x] ![](https://upload.wikimedia.org/wikipedia/commons/2/22/Malus_domestica_a1.jpg)
+- [x] ![](https://upload.wikimedia.org/wikipedia/commons/9/92/95apple.jpeg)
+- [x] ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Macintosh_128k_transparency.png/511px-Macintosh_128k_transparency.png)
+- [ ] ![]({{< fileurl file="Bananas.svg" >}})
+
 ## Loss Functions
 
 Which statements are true?

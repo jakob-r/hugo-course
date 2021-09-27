@@ -12,7 +12,7 @@
 <ul class="list-unstyled">
 {{ with $chapters.Pages }}
 {{ range sort . ".File.Path"}}
-<li><a class="title" href="{{ .RelPermalink }}">{{.Title}}</a> {{ .Summary | plainify }}
+<li><a class="title" href="{{ .RelPermalink }}">{{.Title}}</a>
 {{ if .Pages}}
 <ul>
   {{ range .Pages}}

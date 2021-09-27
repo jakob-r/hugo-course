@@ -26,6 +26,11 @@ enableRobotsTXT = true
     pre = "appendix"
     url = "appendix/"
     weight = 3
+  [[menu.main]]
+    name = "Team"
+    pre = "team"
+    url = "team/"
+    weight = 3
 # can contain as main items as you want
   [[menu.footer]] # name here does not matter
     name = "Main Course Website"

@@ -17,3 +17,7 @@
   - put `quizdown: true` in yaml-frontmatter
   - quizzes support mathjax without the `mathjax: true`
 - in `_index.md` you can specify `show_in_index: (content|summary|none)`
+
+## License
+
+CC-BY Jakob Richter
