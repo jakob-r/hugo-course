@@ -1,0 +1,3 @@
+[submodule "themes/courseTheme"]
+	path = themes/courseTheme
+	url = https://github.com/jakob-r/courseTheme.git
