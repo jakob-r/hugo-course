@@ -1,4 +1,4 @@
-baseURL = "https://jakob-r.de/hugo-course/"
+baseURL = "https://compstat-lmu.github.io/lecture_i2ml_2/"
 languageCode = "en-us"
 title = "Introduction to Machine Learning (I2ML)"
 theme = "courseTheme"
