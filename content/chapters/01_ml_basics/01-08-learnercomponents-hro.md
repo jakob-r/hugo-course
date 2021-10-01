@@ -8,6 +8,7 @@ Nearly all supervised learning algorithms can be described in terms of three com
 
 {{< pdfjs file="slides-basics-learnercomponents-hro.pdf" >}}
 
+
 {{< quizdown >}}
 
 ---
@@ -17,8 +18,8 @@ shuffle_questions: false
 ## Which statements are true? 
 
 - [x] For a given hypothesis space, different optimization procedures can be used to find the best model within it.
-- [ ] Providing two different training data sets to a learner will result in the same optimal model.
-- [x] The parameterization of a model defines its hypothesis space.
+- [x] Providing two different training data sets to a learner will result in the same optimal model.
+- [ ] The parameterization of a model defines its hypothesis space.
 - [x] Supervised learning consists of three components: hypothesis space, risk, and optimization.
 
 {{< /quizdown >}}
