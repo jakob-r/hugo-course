@@ -12,7 +12,7 @@ This section introduces polynomials to obtain more flexible models for the regre
 {{< quizdown >}}
 
 ---
-shuffle_answers: true
+shuffle_questions: false
 ---
 
 Which statements are true? 

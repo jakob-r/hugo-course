@@ -12,7 +12,7 @@ L1 and L2 are two essential loss functions used for evaluating the performance o
 {{< quizdown >}}
 
 ---
-shuffle_answers: true
+shuffle_questions: false
 ---
 
 Which statements are true? 

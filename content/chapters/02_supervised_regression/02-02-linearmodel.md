@@ -12,7 +12,7 @@ In this section, we explain how the linear regression model can be used from a m
 {{< quizdown >}}
 
 ---
-shuffle_answers: true
+shuffle_questions: false
 ---
 
 Which statements are true? 
