@@ -15,7 +15,7 @@ L1 and L2 are two essential loss functions used for evaluating the performance o
 shuffle_questions: false
 ---
 
-Which statements are true? 
+## Which statements are true? 
 
 - [ ] The absolute loss function is more sensitive to outliers than the quadratic loss function.
 - [x] Optimization of L2 loss is easier than of L1 loss.
