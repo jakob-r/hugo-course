@@ -18,7 +18,7 @@
 ## Student Assistants
 
 - Holger Löwe
-- Lisa Wimmer
+- Lisa Wimmer x
 
 
 ## Contributors welcome
