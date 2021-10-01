@@ -17,10 +17,8 @@
 
 ## Student Assistants
 
-- Tobias Pielok
-- Rifat Mehreen Amin
-- Katharina Ring
-- Daria Filatova
+- Holger Löwe
+- Lisa Wimmer
 
 
 ## Contributors welcome
