@@ -15,7 +15,7 @@ This section introduces polynomials to obtain more flexible models for the regre
 shuffle_questions: false
 ---
 
-Which statements are true? 
+## Which statements are true? 
 
 - [ ] With linear regression it is only possible to model linear effects of a feature.
 - [x] Overfitting is a present danger in polynomial regression.

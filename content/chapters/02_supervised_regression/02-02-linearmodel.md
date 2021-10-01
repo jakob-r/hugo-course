@@ -15,7 +15,7 @@ In this section, we explain how the linear regression model can be used from a m
 shuffle_questions: false
 ---
 
-Which statements are true? 
+## Which statements are true? 
 
 - [x] The target in linear regression has to be numeric.
 - [ ] The features in linear regression have to be numeric.
