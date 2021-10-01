@@ -16,9 +16,9 @@ shuffle_questions: false
 
 ## Which statements are true? 
 
-- [x] For a given hypothesis space $$H$$, different optimization procedures can be used to find the best model $$f \in H$$.
-- [ ] Providing two different training data sets to a learner will result in the same optimal model $$f$$.
-- [x] The parameterization of a model defines its hypothesis space $$H$$.
+- [x] For a given hypothesis space, different optimization procedures can be used to find the best model within it.
+- [ ] Providing two different training data sets to a learner will result in the same optimal model.
+- [x] The parameterization of a model defines its hypothesis space.
 - [x] Supervised learning consists of three components: hypothesis space, risk, and optimization.
 
 {{< /quizdown >}}
