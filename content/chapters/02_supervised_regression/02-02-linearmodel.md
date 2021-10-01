@@ -9,8 +9,6 @@ In this section, we explain how the linear regression model can be used from a m
 
 {{< pdfjs file="slides-regression-linearmodel.pdf" >}}
 
-## Code demo
-
 {{< pdfjs file="code_demo_limo.pdf" >}}
 
 You can run the code snippets in the demos on your local machine. The corresponding Rmd version of this demo can be found [here](https://github.com/compstat-lmu/lecture_i2ml/blob/master/code-demos/code_demo_limo.Rmd). If you want to render the Rmd files to PDF, you need the accompanying [style files](https://github.com/compstat-lmu/lecture_i2ml/tree/master/style). 
