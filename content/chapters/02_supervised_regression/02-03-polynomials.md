@@ -12,7 +12,6 @@ This section introduces polynomials to obtain more flexible models for the regre
 {{< quizdown >}}
 
 ---
-shuffle_questions: false
 shuffle_answers: true
 ---
 

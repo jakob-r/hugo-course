@@ -12,7 +12,6 @@ In this section, we explain how the linear regression model can be used from a m
 {{< quizdown >}}
 
 ---
-shuffle_questions: false
 shuffle_answers: true
 ---
 
@@ -20,7 +19,7 @@ Which statements are true?
 
 - [x] The target in linear regression has to be numeric.
 - [ ] The features in linear regression have to be numeric.
-- [x] The classical linear model from statistics with Gaussian errors is linear regression with $L2$ loss.
+- [x] The classical linear model from statistics with Gaussian errors is linear regression with L2 loss.
 - [x] The hypothesis space of linear regression consists of linear functions of the features.
 
 {{< /quizdown >}}
