@@ -18,7 +18,7 @@ shuffle_questions: false
 ## Which statements are true? 
 
 - [ ] The absolute loss function is more sensitive to outliers than the quadratic loss function.
-- [x] Optimization of L2 loss is easier than of $L1$ loss.
+- [x] Optimization of L2 loss is easier than of L1 loss.
 
 {{< /quizdown >}}
 
