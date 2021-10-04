@@ -3,8 +3,10 @@ title: "Chapter Chapter 3.6: Naive Bayes"
 ---
 Naive Bayes is a generative approach based on an assumption of conditional independence and closely related to LDA and QDA.
 
-### Lecture video 
 <!--more-->
+
+### Lecture video 
+
 {{< video id="bvAYZsIt04U" >}}
 
 ### Lecture slides

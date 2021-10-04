@@ -4,8 +4,10 @@ quizdown: true
 ---
 Logistic regression is a discriminant approach toward constructing a classifier. We will motivate logistic regression via the logistic function, define the log-loss for optimization and illustrate the approach in 1D and 2D.
 
-### Lecture video
 <!--more-->
+
+### Lecture video
+
 {{< video id="TLb29_fEzhU" >}}
 
 ### Lecture slides
