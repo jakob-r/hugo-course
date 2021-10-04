@@ -14,6 +14,14 @@ In this section we discuss the advantages and disadvantages of random forests an
 
 {{< pdfjs file="slides-forests-discussion.pdf" >}}
 
+### Code demo
+
+**Random Forests**
+
+You can run the code snippets in the demos on your local machine. The corresponding Rmd version of this demo can be found [here](https://github.com/compstat-lmu/lecture_i2ml/blob/master/code-demos/code_demo_randforests.Rmd). If you want to render the Rmd files to PDF, you need the accompanying [style files](https://github.com/compstat-lmu/lecture_i2ml/tree/master/style). 
+
+{{< pdfjs file="code_demo_randforests.pdf" >}}
+
 ### Quiz
 
 {{< quizdown >}}

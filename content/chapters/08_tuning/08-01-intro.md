@@ -26,7 +26,7 @@ shuffle_questions: false
 
 - [x] Tuning means optimizing hyperparameters.
 - [x] Doing tuning well is hard; nested resampling can help.
-- [x] Good tuning is crucial to achieving´ good performance for all ML algorithms.
+- [x] Good tuning is crucial to achieving good performance for all ML algorithms.
 - [ ] Tuning optimizes the inner loss.
 
 {{< /quizdown >}}
