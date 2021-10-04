@@ -5,13 +5,24 @@ quizdown: true
 In this section, we explain how the linear regression model can be used from a machine learning perspective to predict a continuous numerical target variable. We use the concepts of loss function and empirical risk minimization to find the linear model that best fits the data.
 
 <!--more-->
+
+### Lecture video
+
 {{< video id="XITIVU37wGY" >}}
 
+### Lecture slides
+
 {{< pdfjs file="slides-regression-linearmodel.pdf" >}}
+
+### Code demo 
+
+**Linear model & gradient descent**
 
 You can run the code snippets in the demos on your local machine. The corresponding Rmd version of this demo can be found [here](https://github.com/compstat-lmu/lecture_i2ml/blob/master/code-demos/code_demo_limo.Rmd). If you want to render the Rmd files to PDF, you need the accompanying [style files](https://github.com/compstat-lmu/lecture_i2ml/tree/master/style). 
 
 {{< pdfjs file="code_demo_limo.pdf" >}}
+
+### Quiz
 
 {{< quizdown >}}
 

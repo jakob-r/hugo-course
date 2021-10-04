@@ -5,9 +5,16 @@ quizdown: true
 This section introduces polynomials to obtain more flexible models for the regression task. We explain the connection to the basic linear model and discuss the problem of overfitting.
 
 <!--more-->
+
+### Lecture video
+
 {{< video id="q1ETfSxEfSg" >}}
 
+### Lecture slides
+
 {{< pdfjs file="slides-regression-polynomials.pdf" >}}
+
+### Quiz
 
 {{< quizdown >}}
 
