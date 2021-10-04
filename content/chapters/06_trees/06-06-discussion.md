@@ -1,5 +1,5 @@
 ---
-title: "Chapter 5.6: Discussion"
+title: "Chapter 6.6: Discussion"
 quizdown: true
 ---
 In this section we discuss the advantages and disadvantages of CART and mention other tree methodologies.
