@@ -1,5 +1,6 @@
 ---
 title: "Chapter 4.9: Resampling"
+quizdown: true
 ---
 Different resampling techniques help to assess the performance of a learner. We will introduce cross-validation (with and without stratification), bootstrap and subsampling.
 
