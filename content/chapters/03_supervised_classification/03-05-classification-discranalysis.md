@@ -12,3 +12,22 @@ Discriminant analysis is a generative approach toward constructing a classifier.
 ### Lecture slides
 
 {{< pdfjs file="slides-classification-discranalysis.pdf" >}}
+
+### Quiz
+
+{{< quizdown >}}
+
+---
+shuffle_questions: false
+---
+
+## Which statements are true? 
+
+- [ ] In LDA, each class density is modeled as a multivariate Gaussian with unequal covariance.
+- [x] LDA is a linear classifier.
+- [x] LDA follows a generative approach.
+- [ ] In QDA, each class density is modeled as a multivariate Gaussian with equal covariance.
+- [x] QDA follows a generative approach.
+- [x] QDA requires estimation of more parameters than LDA.
+
+{{< /quizdown >}}
