@@ -9,9 +9,9 @@ In this section, we explain how the linear regression model can be used from a m
 
 {{< pdfjs file="slides-regression-linearmodel.pdf" >}}
 
-{{< pdfjs file="code_demo_limo.pdf" >}}
-
 You can run the code snippets in the demos on your local machine. The corresponding Rmd version of this demo can be found [here](https://github.com/compstat-lmu/lecture_i2ml/blob/master/code-demos/code_demo_limo.Rmd). If you want to render the Rmd files to PDF, you need the accompanying [style files](https://github.com/compstat-lmu/lecture_i2ml/tree/master/style). 
+
+{{< pdfjs file="code_demo_limo.pdf" >}}
 
 {{< quizdown >}}
 
@@ -23,7 +23,7 @@ shuffle_questions: false
 
 - [x] The target in linear regression has to be numeric.
 - [ ] The features in linear regression have to be numeric.
-- [x] The classical linear model from statistics with Gaussian errors is linear regression with L2 loss.
+- [x] The classical linear model from statistics with Gaussian errors is linear regression with $L2$ loss.
 - [x] The hypothesis space of linear regression consists of linear functions of the features.
 
 {{< /quizdown >}}
