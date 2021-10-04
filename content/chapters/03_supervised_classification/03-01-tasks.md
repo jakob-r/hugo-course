@@ -6,7 +6,7 @@ In classification, the task is to predict a categorical (binary or multi-class) 
 <!--more-->
 ### Lecture video
 
-{{< video id="JhNydqlMVeE" >}}´
+{{< video id="JhNydqlMVeE" >}}
 
 ### Lecture slides
 
