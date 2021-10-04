@@ -12,3 +12,28 @@ Different resampling techniques help to assess the performance of a learner. We 
 ### Lecture slides
 
 {{< pdfjs file="slides-evaluation-resampling.pdf" >}}
+
+### Code demo
+
+**Resampling**
+
+You can run the code snippets in the demos on your local machine. The corresponding Rmd version of this demo can be found [here](https://github.com/compstat-lmu/lecture_i2ml/blob/master/code-demos/code_demo_resampling.Rmd). If you want to render the Rmd files to PDF, you need the accompanying [style files](https://github.com/compstat-lmu/lecture_i2ml/tree/master/style). 
+
+{{< pdfjs file="code_demo_resampling.pdf" >}}
+
+### Quiz
+
+{{< quizdown >}}
+
+---
+shuffle_questions: false
+---
+
+## Which statements are true? 
+
+- [x] Cross-validation, bootstrap, and subsampling are resampling techniques.
+- [x] Estimating the expected generalization error is a goal of resampling.
+- [x] In resampling, the data set is split repeatedly into training and tests sets.
+- [ ] Resampling strategies are unbiased.
+
+{{< /quizdown >}}
