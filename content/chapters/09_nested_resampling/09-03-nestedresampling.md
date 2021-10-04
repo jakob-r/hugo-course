@@ -12,7 +12,7 @@ In this section, we will explain why and how nested resampling is done.
 
 ### Lecture slides
 
-{{< pdfjs file="slides-tuning-nestedresampling.pdf" >}}
+{{< pdfjs file="slides-nested-nestedresampling.pdf" >}}
 
 ### Code demo
 
