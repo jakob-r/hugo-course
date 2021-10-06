@@ -1,4 +1,4 @@
 ---
-title: "Chapter 11: Advanced Risk Minimization"
+title: "Chapter 19: Gaussian Processes"
 ---
-This chapter revisits the theory of risk minimization, providing more in-depth analysis on established losses and the connection between empirical risk minimization and maximum likelihood estimation, and introduces some more advanced loss functions for regression and classification. 
+This chapter introduces Gaussian processes as a model class. Gaussian processes are non-parametric approaches with ubiquitous application that model entire distributions in function space.
