@@ -1,4 +1,4 @@
 ---
-title: "Chapter 11: Advanced Risk Minimization"
+title: "Chapter 16: Regularization"
 ---
-This chapter revisits the theory of risk minimization, providing more in-depth analysis on established losses and the connection between empirical risk minimization and maximum likelihood estimation, and introduces some more advanced loss functions for regression and classification. 
+Regularization is a vital tool in machine learning to prevent overfitting and foster generalization ability. This chapter introduces the concept of regularization and discusses common regularization techniques in more depth.
