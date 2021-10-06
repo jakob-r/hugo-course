@@ -1,7 +1,7 @@
 ---
 title: "Chapter 14.2: Curse of Dimensionality - Examples"
 ---
-In this section, we show examples of how \\((k\\)-NN and the linear model suffer from the the curse of dimensionality. 
+In this section, we show examples of how \\(k\\)-NN and the linear model suffer from the the curse of dimensionality. 
 
 <!--more-->
 
