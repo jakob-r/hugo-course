@@ -11,4 +11,4 @@ In this section, we introduce and discuss the following advanced classification 
 
 ### Lecture slides
 
-{{< pdfjs file="slides-advriskmin-classification-further-losses.pdf" >}}
+{{< pdfjs file="slides-advriskmin-classification-furtherlosses.pdf" >}}
