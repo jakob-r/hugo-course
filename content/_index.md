@@ -8,7 +8,7 @@ It can either be taken as an introductory undergraduate course early on -- if yo
 
 One general, important goal of the course, beyond explaining the most popular ML algorithms, is to clearly demonstrate the fundamental building blocks behind ML, rather than introducing "yet another algorithm, with yet another differently named concept". We discuss, compare and contrast risk minimization, statistical parameter estimation, the Bayesian viewpoint and information theory and demonstrate that all of these are equally valid entry points to ML, while they often (confusingly) address the same issues with different terminology. Being able to understand these similarities and enabling to mentally switch perspectives when needed is a major goal of this course.
 
-If you want to learn more about this course, please (1) read the outline further below and (2) read the section on prerequisites
+If you want to learn more about this course, please (1) read the outline further below and (2) read the section on prerequisites.
 
 Later on, please note: (1) The course uses a unified mathematical notation. We provide cheat sheets to summarize the most important symbols and concepts. (2) Most sections already contain quizzes, coding demos, and exercises with worked-out solutions to enable self-study as much as possible.
 
