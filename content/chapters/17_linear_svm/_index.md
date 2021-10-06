@@ -1,4 +1,4 @@
 ---
-title: "Chapter 11: Advanced Risk Minimization"
+title: "Chapter 17: Linear Support Vector Machines"
 ---
-This chapter revisits the theory of risk minimization, providing more in-depth analysis on established losses and the connection between empirical risk minimization and maximum likelihood estimation, and introduces some more advanced loss functions for regression and classification. 
+This chapter introduces the linear support vector machine (SVM), a linear classifier that finds decision boundaries by maximizing margins to the closest data points, possibly allowing for violations to a certain extent.
