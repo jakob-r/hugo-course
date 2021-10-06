@@ -1,5 +1,5 @@
 ---
-title: "Chapter 17.5: Support Vector Machine Training"
+title: "Chapter 17.5: SVM Training"
 ---
 The linear SVM problem is challenging due to its non-differentiability. In this section, we present methods of optimization.
 

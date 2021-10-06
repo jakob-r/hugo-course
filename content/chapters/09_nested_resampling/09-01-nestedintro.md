@@ -1,5 +1,5 @@
 ---
-title: "Chapter 9.1: Nested Resampling Motivation"
+title: "Chapter 9.1: Motivation"
 quizdown: true
 ---
 Selecting the best model from a set of potential candidates is an important part of most machine learning problems. By examining an instructive and problematic example, we introduce the untouched-test-set principle.
