@@ -26,7 +26,7 @@ shuffle_questions: false
 
 - [x] The MSE is used in the conventional linear model to find the best parameter estimates.
 - [x] On test data, $R^2$ can be smaller than 0 for linear models.
-- [x] The MAE is equivalent to the $L1$ loss.
-- [ ] The MSE is equivalent to the $L1$ loss.
+- [x] The MAE is equivalent to $L1$ loss.
+- [ ] The MSE is equivalent to $L1$ loss.
 
 {{< /quizdown >}}
