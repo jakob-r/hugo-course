@@ -22,6 +22,11 @@ enableRobotsTXT = true
     url = "chapters/"
     weight = 2
   [[menu.main]]
+    name = "Exercises"
+    pre = "exercises"
+    url = "exercises/"
+    weight = 2
+  [[menu.main]]
     name = "Appendix"
     pre = "appendix"
     url = "appendix/"
