@@ -1,5 +1,5 @@
 ---
-title: "Chapter 15.: Capacity and Overfitting"
+title: "Chapter 15.2: Capacity and Overfitting"
 ---
 In this section, we discuss how the capacity of a hypothesis influences the overfitting behavior of a learner. 
 
