@@ -1,4 +1,4 @@
 ---
-title: "Chapter 11: Advanced Risk Minimization"
+title: "Chapter 20: Boosting"
 ---
-This chapter revisits the theory of risk minimization, providing more in-depth analysis on established losses and the connection between empirical risk minimization and maximum likelihood estimation, and introduces some more advanced loss functions for regression and classification. 
+This chapter introduces boosting as a sequential ensemble method that creates powerful committees from different kinds of base learners.
