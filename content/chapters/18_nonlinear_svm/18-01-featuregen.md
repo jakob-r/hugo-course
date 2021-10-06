@@ -1,7 +1,7 @@
 ---
 title: "Chapter 18.1: Feature Generation for Nonlinear Separation"
 ---
-We show how nonlinear feature maps project the input data to transformed spaces where they become linearly separable.
+We show how nonlinear feature maps project the input data to transformed spaces, where they become linearly separable.
 
 <!--more-->
 
