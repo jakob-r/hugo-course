@@ -1,7 +1,7 @@
 ---
 title: "Chapter 18.6: SVM Model Selection"
 ---
- In this section, we discuss the importance of SVM hyperparameters for adequate solutions. 
+In this section, we discuss the importance of SVM hyperparameters for adequate solutions. 
 
 <!--more-->
 
