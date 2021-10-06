@@ -34,7 +34,7 @@ shuffle_questions: false
 
 - [ ] CART is a stable algorithm -- if the data changes slightly the tree structure remains quite similar.
 - [x] CART is robust to outliers.
-- [ ] With trees it is easy to handle missing values.
+- [x] With trees it is easy to handle missing values.
 - [ ] A simple tree is everything you need to fit a linear function $y \approx a + b \cdot x$ with numeric target.
 
 {{< /quizdown >}}
