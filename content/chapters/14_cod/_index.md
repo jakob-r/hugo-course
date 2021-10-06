@@ -1,4 +1,4 @@
 ---
-title: "Chapter 11: Advanced Risk Minimization"
+title: "Chapter 14: Curse of Dimensionality"
 ---
-This chapter revisits the theory of risk minimization, providing more in-depth analysis on established losses and the connection between empirical risk minimization and maximum likelihood estimation, and introduces some more advanced loss functions for regression and classification. 
+Frequently, our intuition developed in low-dimensional spaces does not generalize to higher dimensions. This chapter introduces the phenomenon of the curse of dimensionality and discusses its effects on the behavior of machine learning models.
