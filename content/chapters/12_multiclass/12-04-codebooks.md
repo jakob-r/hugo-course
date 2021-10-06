@@ -1,5 +1,5 @@
 ---
-title: "Chapter 12.1: Designing Codebooks and ECOC"
+title: "Chapter 12.4: Designing Codebooks and ECOC"
 ---
 In this section, we introduce codebooks as a general concept for multiclass to binary reduction. 
 

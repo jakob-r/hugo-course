@@ -1,5 +1,5 @@
 ---
-title: "Chapter 11.1: Risk Minimizers"
+title: "Chapter 13.1: Risk Minimizers"
 ---
 We introduce important concepts in theoretical risk minimization: risk minimizer, Bayes risk, Bayes regret, consistent learners and the optimal constant model. 
 
@@ -11,4 +11,4 @@ We introduce important concepts in theoretical risk minimization: risk minimizer
 
 ### Lecture slides
 
-{{< pdfjs file="slides-advriskmin-risk-minimizer.pdf" >}}
+{{< pdfjs file="slides-info-entropy.pdf" >}}
