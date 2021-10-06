@@ -1,4 +1,4 @@
 ---
-title: "Chapter 11: Advanced Risk Minimization"
+title: "Chapter 18: Nonlinear Support Vector Machine"
 ---
-This chapter revisits the theory of risk minimization, providing more in-depth analysis on established losses and the connection between empirical risk minimization and maximum likelihood estimation, and introduces some more advanced loss functions for regression and classification. 
+Many classification problems warrant nonlinear decision boundaries. This chapter introduces nonlinear support vector machines as an extension to the linear variant.
