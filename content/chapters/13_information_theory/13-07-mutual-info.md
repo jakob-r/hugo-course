@@ -1,14 +1,14 @@
 ---
-title: "Chapter 13.1: Risk Minimizers"
+title: "Chapter 13.7: Joint Entropy and Mutual Information"
 ---
-We introduce important concepts in theoretical risk minimization: risk minimizer, Bayes risk, Bayes regret, consistent learners and the optimal constant model. 
+Information theory also provides means of quantifying relations between two random variables that extend the concept of (linear) correlation. We discuss joint entropy, conditional entropy, and mutual information. 
 
 <!--more-->
 
 ### Lecture video
 
-{{< video id="zoSGEGWOUt8" >}}
+{{< video id="ZoWANYz5KHE" >}}
 
 ### Lecture slides
 
-{{< pdfjs file="slides-info-entropy.pdf" >}}
+{{< pdfjs file="slides-info-mutual-info.pdf" >}}

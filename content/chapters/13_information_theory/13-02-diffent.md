@@ -1,14 +1,14 @@
 ---
-title: "Chapter 13.1: Risk Minimizers"
+title: "Chapter 13.2: Differential Entropy"
 ---
-We introduce important concepts in theoretical risk minimization: risk minimizer, Bayes risk, Bayes regret, consistent learners and the optimal constant model. 
+In this section, we extend the definition of entropy to the continuous case.
 
 <!--more-->
 
 ### Lecture video
 
-{{< video id="zoSGEGWOUt8" >}}
+{{< video id="nTCwnRPLIsU" >}}
 
 ### Lecture slides
 
-{{< pdfjs file="slides-info-entropy.pdf" >}}
+{{< pdfjs file="slides-info-diffent.pdf" >}}

@@ -1,14 +1,14 @@
 ---
-title: "Chapter 13.1: Risk Minimizers"
+title: "Chapter 13.5: Cross-Entropy, KL and Source Coding"
 ---
-We introduce important concepts in theoretical risk minimization: risk minimizer, Bayes risk, Bayes regret, consistent learners and the optimal constant model. 
+We introduce cross-entropy as a further information-theoretic concept and discuss the connection between entropy, cross-entropy, and Kullback-Leibler divergence.  
 
 <!--more-->
 
 ### Lecture video
 
-{{< video id="zoSGEGWOUt8" >}}
+{{< video id="V5nYGjhRfY0" >}}
 
 ### Lecture slides
 
-{{< pdfjs file="slides-info-entropy.pdf" >}}
+{{< pdfjs file="slides-info-cross-entropy-kld.pdf" >}}

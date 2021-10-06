@@ -1,14 +1,14 @@
 ---
-title: "Chapter 13.1: Risk Minimizers"
+title: "Chapter 13.4: Entropy and Optimal Code Length"
 ---
-We introduce important concepts in theoretical risk minimization: risk minimizer, Bayes risk, Bayes regret, consistent learners and the optimal constant model. 
+In this section, we introduce source coding and discuss how entropy can be understood as optimal code length. 
 
 <!--more-->
 
 ### Lecture video
 
-{{< video id="zoSGEGWOUt8" >}}
+{{< video id="-zgNBnYkWc4" >}}
 
 ### Lecture slides
 
-{{< pdfjs file="slides-info-entropy.pdf" >}}
+{{< pdfjs file="slides-info-sourcecoding.pdf" >}}
