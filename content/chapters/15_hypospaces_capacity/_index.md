@@ -1,4 +1,4 @@
 ---
-title: "Chapter 11: Advanced Risk Minimization"
+title: "Chapter 15: Hypothesis Spaces"
 ---
-This chapter revisits the theory of risk minimization, providing more in-depth analysis on established losses and the connection between empirical risk minimization and maximum likelihood estimation, and introduces some more advanced loss functions for regression and classification. 
+Machine learning constantly balances model fit and generalization ability. This chapter discusses the capacity of hypothesis spaces in more depth, also touching upon Vapnik-Chervonenkis (VC) dimensions and probably approximately correct (PAC) learning.
