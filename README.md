@@ -2,6 +2,7 @@
 
 - Directories and filenames have to be lowercase
 - Chapters are ordered after filenames
+- Content is ordered after weights: suggested (section -> weight) 1.9 -> 1090, 1.12 -> 1120, 12.1 -> 12010
 - if no video is given or no pdf file is present: delete yaml param completely
 - to include pdfs, use [pdfjs](https://github.com/anvithks/hugo-embed-pdf-shortcode): `{{< pdfjs file="slides-regression-losses.pdf" >}}`. The pdf has to be in the same directory as the md file.
 - if you add a markdown or html link to a file that is in the same directory
