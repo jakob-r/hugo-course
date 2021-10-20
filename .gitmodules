@@ -1,3 +1,4 @@
 [submodule "themes/courseTheme"]
 	path = themes/courseTheme
 	url = https://github.com/compstat-lmu/courseTheme.git
+	branch = main
