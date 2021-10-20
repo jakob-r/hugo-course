@@ -1,5 +1,6 @@
 ---
 title: "Chapter 11.8: Brier Score"
+weight: 11080
 ---
 In this section, we introduce the Brier score and derive its risk minimizer and optimal constant model. We further discuss the connection between Brier score minimization and tree splitting according to the Gini index. 
 

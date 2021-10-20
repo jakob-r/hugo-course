@@ -1,5 +1,6 @@
 ---
 title: "Chapter 1.5: Learner"
+weight: 1050
 ---
 Roughly speaking, learners (endowed with a specific hyperparameter configuration) take training data and return a model.
 

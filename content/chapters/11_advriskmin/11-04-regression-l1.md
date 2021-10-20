@@ -1,5 +1,6 @@
 ---
 title: "Chapter 11.4: L1 Loss"
+weight: 11040
 ---
 In this section, we revisit \\(L1\\) loss and derive its risk minimizer -- the conditional median -- and optimal constant model -- the empirical median of observed target values. 
 

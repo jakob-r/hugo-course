@@ -1,5 +1,6 @@
 ---
 title: "Chapter 8.1: Introduction"
+weight: 8010
 quizdown: true
 ---
 While model parameters are optimized during training, hyperparameters must be specified in advance. In this section, we will motivate why it is crucial to find good values for, i.e. to tune, these hyperparameters.

@@ -1,5 +1,6 @@
 ---
 title: "Chapter 10.2: Resampling with mlr3"
+weight: 10020
 quizdown: true
 ---
 mlr3 supports various forms of resampling, which we will demonstrate in this section.

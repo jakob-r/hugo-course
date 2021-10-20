@@ -1,5 +1,6 @@
 ---
 title: "Chapter 2.2: Linear Regression Models"
+weight: 2020
 quizdown: true
 ---
 In this section, we explain how the linear regression model can be used from a machine learning perspective to predict a continuous numerical target variable. We use the concepts of loss function and empirical risk minimization to find the linear model that best fits the data.

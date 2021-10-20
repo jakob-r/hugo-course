@@ -1,5 +1,6 @@
 ---
 title: "Chapter 7.5: Proximities"
+weight: 7050
 quizdown: true
 ---
 The term *proximity* refers to the "closeness" between pairs of cases. Proximities are calculated for each pair of observations and can be derived directly from random forests.

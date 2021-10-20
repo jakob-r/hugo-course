@@ -1,5 +1,6 @@
 ---
 title: "Chapter 16.4: Elastic Net and Regularization for GLMs"
+weight: 16040
 ---
 In this section, we introduce the elastic net as a combination of Ridge and Lasso regression and discuss regularization for logistic regression. 
 

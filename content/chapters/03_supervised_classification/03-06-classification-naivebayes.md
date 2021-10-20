@@ -1,5 +1,6 @@
 ---
 title: "Chapter 3.6: Naive Bayes"
+weight: 3060
 quizdown: true
 ---
 Naive Bayes is a generative approach based on an assumption of conditional independence across features and closely related to discriminant analysis.

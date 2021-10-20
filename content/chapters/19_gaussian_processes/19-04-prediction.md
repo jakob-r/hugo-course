@@ -1,5 +1,6 @@
 ---
 title: "Chapter 19.4: Gaussian Process Prediction"
+weight: 19040
 ---
 In this section, we show how to derive the posterior process and discuss further properties of GPs as well as noisy GPs.
 

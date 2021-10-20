@@ -1,5 +1,6 @@
 ---
 title: "Chapter 18.2: The Kernel Trick"
+weight: 18020
 ---
 In this section, we show how nonlinear SVMs work their magic by introducing nonlinearity efficiently via the kernel trick. 
 

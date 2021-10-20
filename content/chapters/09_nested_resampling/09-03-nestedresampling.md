@@ -1,5 +1,6 @@
 ---
 title: "Chapter 9.3: Nested Resampling"
+weight: 9030
 quizdown: true
 ---
 In this section, we will explain why and how nested resampling is done.

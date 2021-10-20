@@ -1,5 +1,6 @@
 ---
 title: "Chapter 8.3: Basic Techniques"
+weight: 8030
 quizdown: true
 ---
 In this section we familiarize ourselves with two simple but popular tuning strategies, namely grid search and random search, and discuss their advantages and disadvantages. 
