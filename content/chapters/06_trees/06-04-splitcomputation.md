@@ -1,5 +1,5 @@
 ---
-title: "Chapter 6.4: Computational Aspects of Finding Splits"
+title: "Chapter 06.04: Computational Aspects of Finding Splits"
 weight: 6040
 quizdown: true
 ---

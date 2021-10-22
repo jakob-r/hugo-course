@@ -1,5 +1,5 @@
 ---
-title: "Chapter 2.1: Loss Functions for Regression"
+title: "Chapter 02.01: Loss Functions for Regression"
 weight: 2010
 quizdown: true
 ---

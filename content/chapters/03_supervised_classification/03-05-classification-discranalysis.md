@@ -1,5 +1,5 @@
 ---
-title: "Chapter 3.5: Discriminant Analysis"
+title: "Chapter 03.05: Discriminant Analysis"
 weight: 3050
 quizdown: true
 ---

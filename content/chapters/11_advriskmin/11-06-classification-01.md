@@ -1,5 +1,5 @@
 ---
-title: "Chapter 11.6: 0-1 Loss"
+title: "Chapter 11.06: 0-1 Loss"
 weight: 11060
 ---
 In this section, we revisit the 0-1 loss and derive its risk minimizer .

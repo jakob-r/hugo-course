@@ -1,5 +1,5 @@
 ---
-title: "Chapter 16.7: Regularization in NonLinear Models and Bayesian Priors"
+title: "Chapter 16.07: Regularization in NonLinear Models and Bayesian Priors"
 weight: 16070
 ---
 In this section, we motivate regularization from a Bayesian perspective, showing how different penalty terms correspond to different Bayesian priors.

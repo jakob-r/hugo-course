@@ -1,5 +1,5 @@
 ---
-title: "Chapter 3.3: Linear Classifiers"
+title: "Chapter 03.03: Linear Classifiers"
 weight: 3030
 quizdown: true
 ---

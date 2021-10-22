@@ -1,5 +1,5 @@
 ---
-title: "Chapter 7.3: Benchmarking Trees, Forests, and Bagging k-NN"
+title: "Chapter 07.03: Benchmarking Trees, Forests, and Bagging k-NN"
 weight: 7030
 quizdown: true
 ---

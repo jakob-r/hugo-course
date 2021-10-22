@@ -1,5 +1,5 @@
 ---
-title: "Chapter 3.1: Classification Tasks"
+title: "Chapter 03.01: Classification Tasks"
 weight: 3010
 ---
 In classification, the task is to predict a categorical (binary or multiclass) label. In this section, we illustrate the concept of classification with some typical examples.

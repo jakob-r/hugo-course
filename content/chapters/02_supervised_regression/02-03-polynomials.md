@@ -1,5 +1,5 @@
 ---
-title: "Chapter 2.3: Polynomial Regression Models"
+title: "Chapter 02.03: Polynomial Regression Models"
 weight: 2030
 quizdown: true
 ---

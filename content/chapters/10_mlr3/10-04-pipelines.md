@@ -1,5 +1,5 @@
 ---
-title: "Chapter 10.4: Pipelines with mlr3"
+title: "Chapter 10.04: Pipelines with mlr3"
 weight: 10040
 quizdown: true
 ---

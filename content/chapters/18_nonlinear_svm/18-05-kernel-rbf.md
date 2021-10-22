@@ -1,5 +1,5 @@
 ---
-title: "Chapter 18.5: The Gaussian RBF Kernel"
+title: "Chapter 18.05: The Gaussian RBF Kernel"
 weight: 18050
 ---
 In this section, we introduce the popular Gaussian RBF kernel and discuss its properties. 

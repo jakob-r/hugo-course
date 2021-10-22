@@ -1,5 +1,5 @@
 ---
-title: "Chapter 19.2: Gaussian Processes"
+title: "Chapter 19.02: Gaussian Processes"
 weight: 19020
 ---
 In this section, we introduce the basic idea behind Gaussian processes. We move from weight to function space and build some intuition on distributions over functions, discuss GPs' marginalization property, derive GP priors, and interpret GPs as indexed families.  

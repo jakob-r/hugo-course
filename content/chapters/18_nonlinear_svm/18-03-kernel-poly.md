@@ -1,5 +1,5 @@
 ---
-title: "Chapter 18.3: The Polynomial Kernel"
+title: "Chapter 18.03: The Polynomial Kernel"
 weight: 18030
 ---
 In this section, we introduce the polynomial kernel in the context of SVMs and demonstrate how different polynomial degrees affect decision boundaries.

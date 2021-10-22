@@ -1,5 +1,5 @@
 ---
-title: "Chapter 7.1: Bagging Ensembles"
+title: "Chapter 07.01: Bagging Ensembles"
 weight: 7010
 quizdown: true
 ---

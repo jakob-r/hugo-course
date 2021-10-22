@@ -1,5 +1,5 @@
 ---
-title: "Chapter 7.4: Feature Importance"
+title: "Chapter 07.04: Feature Importance"
 weight: 7040
 quizdown: true
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Chapter 10.1: Intro to mlr3"
+title: "Chapter 10.01: Intro to mlr3"
 weight: 10010
 quizdown: true
 ---

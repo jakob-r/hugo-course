@@ -1,5 +1,5 @@
 ---
-title: "Chapter 13.5: Cross-Entropy, KL and Source Coding"
+title: "Chapter 13.05: Cross-Entropy, KL and Source Coding"
 weight: 13050
 ---
 We introduce cross-entropy as a further information-theoretic concept and discuss the connection between entropy, cross-entropy, and Kullback-Leibler divergence.  

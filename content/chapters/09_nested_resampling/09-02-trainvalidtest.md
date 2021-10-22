@@ -1,5 +1,5 @@
 ---
-title: "Chapter 9.2: Training - Validation - Testing"
+title: "Chapter 09.02: Training - Validation - Testing"
 weight: 9020
 quizdown: true
 ---

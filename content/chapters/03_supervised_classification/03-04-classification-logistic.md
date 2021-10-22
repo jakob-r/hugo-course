@@ -1,5 +1,5 @@
 ---
-title: "Chapter 3.4: Logistic Regression"
+title: "Chapter 03.04: Logistic Regression"
 weight: 3040
 quizdown: true
 ---

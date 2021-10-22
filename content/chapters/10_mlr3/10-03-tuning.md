@@ -1,5 +1,5 @@
 ---
-title: "Chapter 10.3: Tuning with mlr3"
+title: "Chapter 10.03: Tuning with mlr3"
 weight: 10030
 quizdown: true
 ---

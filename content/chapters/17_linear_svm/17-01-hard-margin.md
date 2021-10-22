@@ -1,5 +1,5 @@
 ---
-title: "Chapter 17.1: Linear Hard Margin SVM"
+title: "Chapter 17.01: Linear Hard Margin SVM"
 weight: 17010
 ---
 Hard margin SVMs seek perfect data separation. We introduce the linear hard margin SVM problem as a quadratic optimization program. 

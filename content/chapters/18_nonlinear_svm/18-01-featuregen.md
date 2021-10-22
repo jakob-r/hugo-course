@@ -1,5 +1,5 @@
 ---
-title: "Chapter 18.1: Feature Generation for Nonlinear Separation"
+title: "Chapter 18.01: Feature Generation for Nonlinear Separation"
 weight: 18010
 ---
 We show how nonlinear feature maps project the input data to transformed spaces, where they become linearly separable.

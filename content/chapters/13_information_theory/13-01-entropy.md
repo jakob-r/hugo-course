@@ -1,5 +1,5 @@
 ---
-title: "Chapter 13.1: Entropy"
+title: "Chapter 13.01: Entropy"
 weight: 13010
 ---
 We introduce entropy, which expresses the expected information for discrete random variables, as a central concept in information theory. 

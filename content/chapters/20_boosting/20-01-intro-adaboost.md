@@ -1,5 +1,5 @@
 ---
-title: "Chapter 20.1: Introduction to Boosting / AdaBoost"
+title: "Chapter 20.01: Introduction to Boosting / AdaBoost"
 weight: 20010
 ---
 In this section, we introduce the pioneering AdaBoost algorithm. 

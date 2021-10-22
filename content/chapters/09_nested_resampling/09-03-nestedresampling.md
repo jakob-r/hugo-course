@@ -1,5 +1,5 @@
 ---
-title: "Chapter 9.3: Nested Resampling"
+title: "Chapter 09.03: Nested Resampling"
 weight: 9030
 quizdown: true
 ---

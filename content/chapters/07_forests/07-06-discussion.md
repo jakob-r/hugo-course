@@ -1,5 +1,5 @@
 ---
-title: "Chapter 7.6: Discussion"
+title: "Chapter 07.06: Discussion"
 weight: 7060
 quizdown: true
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Chapter 17.5: SVM Training"
+title: "Chapter 17.05: SVM Training"
 weight: 17050
 ---
 The linear SVM problem is challenging due to its non-differentiability. In this section, we present methods of optimization.

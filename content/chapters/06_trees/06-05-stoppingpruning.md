@@ -1,5 +1,5 @@
 ---
-title: "Chapter 6.5: Stopping Criteria & Pruning"
+title: "Chapter 06.05: Stopping Criteria & Pruning"
 weight: 6050
 quizdown: true
 ---

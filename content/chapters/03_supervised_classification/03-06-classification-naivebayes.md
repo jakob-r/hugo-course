@@ -1,5 +1,5 @@
 ---
-title: "Chapter 3.6: Naive Bayes"
+title: "Chapter 03.06: Naive Bayes"
 weight: 3060
 quizdown: true
 ---

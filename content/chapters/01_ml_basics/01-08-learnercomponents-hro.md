@@ -1,5 +1,5 @@
 ---
-title: "Chapter 1.8: Components of a Learner"
+title: "Chapter 01.08: Components of a Learner"
 weight: 1080
 quizdown: true
 ---

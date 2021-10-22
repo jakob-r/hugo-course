@@ -1,5 +1,5 @@
 ---
-title: "Chapter 7.5: Proximities"
+title: "Chapter 07.05: Proximities"
 weight: 7050
 quizdown: true
 ---

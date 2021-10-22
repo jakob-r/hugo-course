@@ -1,5 +1,5 @@
 ---
-title: "Chapter 10.2: Resampling with mlr3"
+title: "Chapter 10.02: Resampling with mlr3"
 weight: 10020
 quizdown: true
 ---

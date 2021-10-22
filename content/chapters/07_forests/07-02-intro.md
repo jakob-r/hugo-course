@@ -1,5 +1,5 @@
 ---
-title: "Chapter 7.2: Introduction"
+title: "Chapter 07.02: Introduction"
 weight: 7020
 quizdown: true
 ---

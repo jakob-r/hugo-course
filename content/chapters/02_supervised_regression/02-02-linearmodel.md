@@ -1,5 +1,5 @@
 ---
-title: "Chapter 2.2: Linear Regression Models"
+title: "Chapter 02.02: Linear Regression Models"
 weight: 2020
 quizdown: true
 ---

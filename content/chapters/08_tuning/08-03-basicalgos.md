@@ -1,5 +1,5 @@
 ---
-title: "Chapter 8.3: Basic Techniques"
+title: "Chapter 08.03: Basic Techniques"
 weight: 8030
 quizdown: true
 ---

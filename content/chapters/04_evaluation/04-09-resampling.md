@@ -1,5 +1,5 @@
 ---
-title: "Chapter 4.9: Resampling"
+title: "Chapter 04.09: Resampling"
 weight: 4090
 quizdown: true
 ---
