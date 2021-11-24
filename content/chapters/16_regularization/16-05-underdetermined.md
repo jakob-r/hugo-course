@@ -1,6 +1,6 @@
 ---
 title: "Chapter 16.05: Regularization for Underdetermined Problems"
-weight: 16050
+weight: 16005
 ---
 In this section, we discuss how regularization can make ill-posed problems well-defined.  
 

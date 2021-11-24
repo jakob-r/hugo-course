@@ -1,6 +1,6 @@
 ---
 title: "Chapter 19.01: The Bayesian Linear Model"
-weight: 19010
+weight: 19001
 ---
 We begin by reviewing the Bayesian formulation of a linear model and show that instead of point estimates for parameters and predictions, we obtain an entire posterior and predictive distribution.
 

@@ -1,6 +1,6 @@
 ---
 title: "Chapter 04.01: Generalization Error"
-weight: 4010
+weight: 4001
 quizdown: true
 ---
 It is a crucial part of machine learning to evaluate the performance of a learner. We will explain the concept of generalization error and the difference between inner and outer loss.

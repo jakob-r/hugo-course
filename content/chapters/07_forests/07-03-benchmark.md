@@ -1,6 +1,6 @@
 ---
 title: "Chapter 07.03: Benchmarking Trees, Forests, and Bagging k-NN"
-weight: 7030
+weight: 7003
 quizdown: true
 ---
 We compare the performance of random forests vs. (bagged) CART and (bagged) \\(k\\)-NN.

@@ -1,6 +1,6 @@
 ---
 title: "Chapter 17.02: Hard Margin SVM Dual"
-weight: 17020
+weight: 17002
 ---
 In this section, we derive the dual variant of the linear hard-margin SVM problem, a computationally favorable formulation. 
 

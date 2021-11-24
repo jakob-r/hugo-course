@@ -1,6 +1,6 @@
 ---
 title: "Chapter 07.06: Discussion"
-weight: 7060
+weight: 7006
 quizdown: true
 ---
 In this section we discuss the advantages and disadvantages of random forests and explain that all advantages of trees also apply here.

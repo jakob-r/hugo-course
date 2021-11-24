@@ -1,6 +1,6 @@
 ---
 title: "Chapter 04.02: Measures Regression"
-weight: 4020
+weight: 4002
 quizdown: true
 ---
 In this section we familiarize ourselves with essential performance measures for regression. In particular, mean squared error (MSE), mean absolute error (MAE), and a straightforward generalization of $R^2$ are discussed.

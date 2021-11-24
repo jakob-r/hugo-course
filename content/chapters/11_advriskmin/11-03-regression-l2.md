@@ -1,6 +1,6 @@
 ---
 title: "Chapter 11.03: L2 Loss"
-weight: 11030
+weight: 11003
 ---
 In this section, we revisit \\(L2\\) loss and derive its risk minimizer -- the conditional mean -- and optimal constant model -- the empirical mean of observed target values. 
 

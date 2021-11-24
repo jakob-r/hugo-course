@@ -1,6 +1,6 @@
 ---
 title: "Chapter 16.01: Introduction to Regularization"
-weight: 16010
+weight: 16001
 ---
 In this section, we revisit overfitting and introduce regularization as a remedy.
 

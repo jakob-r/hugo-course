@@ -1,6 +1,6 @@
 ---
 title: "Chapter 15.01: Examples of Hypothesis Spaces"
-weight: 15010
+weight: 15001
 ---
 In this section, we show examples for formal definitions of hypothesis spaces. 
 

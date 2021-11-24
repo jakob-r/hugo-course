@@ -1,6 +1,6 @@
 ---
 title: "Chapter 12.02: Softmax Regression"
-weight: 12020
+weight: 12002
 ---
 In this section, we introduce softmax regression as a generalization of logistic regression. 
 

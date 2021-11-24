@@ -1,6 +1,6 @@
 ---
 title: "Chapter 03.04: Logistic Regression"
-weight: 3040
+weight: 3004
 quizdown: true
 ---
 Logistic regression is a discriminant approach toward constructing a classifier. We will motivate logistic regression via the logistic function, define the log-loss for optimization and illustrate the approach in 1D and 2D.

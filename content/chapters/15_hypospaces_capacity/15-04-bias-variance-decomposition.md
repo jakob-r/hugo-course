@@ -1,6 +1,6 @@
 ---
 title: "Chapter 15.04: Bias-Variance Decomposition"
-weight: 15040
+weight: 15004
 ---
 In this section, we derive and discuss the classic bias-variance decomposition of the generalization error of an inducer.  
 

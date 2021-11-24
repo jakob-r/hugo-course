@@ -1,6 +1,6 @@
 ---
 title: "Chapter 11.02: Pseudo-Residuals"
-weight: 11020
+weight: 11002
 ---
 We introduce the concept of pseudo-residuals, i.e., loss residuals in function space, and discuss their relation to gradient descent.
 

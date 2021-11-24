@@ -1,6 +1,6 @@
 ---
 title: "Chapter 03.05: Discriminant Analysis"
-weight: 3050
+weight: 3005
 quizdown: true
 ---
 Discriminant analysis is a generative approach toward constructing a classifier. We distinguish between linear (LDA) and quadratic (QDA) discriminant analysis, where the latter is a more flexible approach subsuming the first.

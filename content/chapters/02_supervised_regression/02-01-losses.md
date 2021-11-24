@@ -1,6 +1,6 @@
 ---
 title: "Chapter 02.01: Loss Functions for Regression"
-weight: 2010
+weight: 2001
 quizdown: true
 ---
 \\(L1\\) and \\(L2\\) are two essential loss functions used for evaluating the performance of regression models. This section defines \\(L1\\) and \\(L2\\) loss and explains the differences. 

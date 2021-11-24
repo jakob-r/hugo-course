@@ -1,6 +1,6 @@
 ---
 title: "Chapter 04.06: Resampling 1"
-weight: 4060
+weight: 4006
 quizdown: true
 ---
 

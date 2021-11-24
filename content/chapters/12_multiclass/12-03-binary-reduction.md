@@ -1,6 +1,6 @@
 ---
 title: "Chapter 12.03: One-vs-One and One-vs-Rest"
-weight: 12030
+weight: 12003
 ---
 It is sometimes advisable to address a multiclass problem as a set of binary ones. We discuss two ways to reduce a multiclass problem to multiple binary classification problems: one-vs-one and one-vs-rest. 
 

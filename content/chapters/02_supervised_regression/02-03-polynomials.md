@@ -1,6 +1,6 @@
 ---
 title: "Chapter 02.03: Polynomial Regression Models"
-weight: 2030
+weight: 2003
 quizdown: true
 ---
 This section introduces polynomials to obtain more flexible models for the regression task. We explain the connection to the basic linear model and discuss the problem of overfitting.

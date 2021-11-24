@@ -1,6 +1,6 @@
 ---
 title: "Chapter 07.02: Introduction"
-weight: 7020
+weight: 7002
 quizdown: true
 ---
 In this section we investigate random forests, a modification of bagging for trees. We illustrate the effect of ensemble size and show how to compute out-of-bag error estimates.
