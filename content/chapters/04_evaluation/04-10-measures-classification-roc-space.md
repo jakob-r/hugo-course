@@ -1,6 +1,6 @@
 ---
 title: "Chapter 04.10: Measures Classification ROC Visualization"
-weight: 4050
+weight: 40100
 quizdown: true
 ---
 In this section, we explain the ROC curve and how to calculate it. In addition, we will present AUC and partial AUC as global performance measures.
@@ -9,11 +9,11 @@ In this section, we explain the ROC curve and how to calculate it. In addition, 
 
 ### Lecture video
 
-{{< video id="m5We8ITYEVk" >}}
+<!-- {{< video id="m5We8ITYEVk" >}} -->
 
 ### Lecture slides
 
-{{< pdfjs file="slides-evaluation-measures-classification-roc-space.pdf" >}}
+<!-- {{< pdfjs file="slides-evaluation-measures-classification-roc-space.pdf" >}} -->
 
 ### Code demo
 

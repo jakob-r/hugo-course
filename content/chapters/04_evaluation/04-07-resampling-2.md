@@ -1,6 +1,6 @@
 ---
 title: "Chapter 04.07: Resampling 2"
-weight: 4030
+weight: 4070
 ---
 
 <!--
