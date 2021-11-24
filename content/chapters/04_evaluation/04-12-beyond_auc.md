@@ -1,5 +1,5 @@
 ---
-title: "Chapter 04.11: AUC Extensions"
+title: "Chapter 04.12: Beyond AUC"
 weight: 4030
 ---
 
