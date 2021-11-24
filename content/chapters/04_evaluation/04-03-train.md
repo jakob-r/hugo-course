@@ -1,5 +1,5 @@
 ---
-title: "Chapter 04.07: Training Error"
+title: "Chapter 04.03: Training Error"
 weight: 4070
 ---
 There are two types of errors: training errors and test errors. The focus of this section is on the training error and related difficulties.
@@ -8,7 +8,7 @@ There are two types of errors: training errors and test errors. The focus of thi
 
 ### Lecture video
 
-{{< video id="dpZLGIf97m0" >}}
+{{< video id="XskndmMybfM" >}}
 
 ### Lecture slides
 

@@ -9,7 +9,7 @@ In this section we familiarize ourselves with essential performance measures for
 
 ### Lecture video
 
-{{< video id="_OHCatRSc08" >}}
+{{< video id="FUHs6hu88MI" >}}
 
 ### Lecture slides
 

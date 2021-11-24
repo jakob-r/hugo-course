@@ -1,5 +1,5 @@
 ---
-title: "Chapter 04.06: Overfitting"
+title: "Chapter 04.05: Overfitting"
 weight: 4060
 ---
 When a machine learning model performs well on training data but does not generalize on the test data, we speak of overfitting. We will show you examples of this behavior and how to diagnose overfitting.

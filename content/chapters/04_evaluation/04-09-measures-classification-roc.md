@@ -1,5 +1,5 @@
 ---
-title: "Chapter 04.04: Measures Classification ROC"
+title: "Chapter 04.09: Measures Classification ROC"
 weight: 4040
 ---
 From the confusion matrix we can calculate a variety of ROC metrics. Among others, we will explain true positive rate, negative predictive value and the $F1$ measure.
@@ -8,7 +8,7 @@ From the confusion matrix we can calculate a variety of ROC metrics. Among other
 
 ### Lecture video
 
-{{< video id="BH4oCliBzZI" >}}
+{{< video id="fzuk7glzpC0" >}}
 
 ### Lecture slides
 
